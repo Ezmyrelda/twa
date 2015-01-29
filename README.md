@@ -37,6 +37,9 @@ Working example:
 - http://ezmyrelda.com/2010/07/06/things-are-amazing/
 
 *read: essentially lifted.
+
 Compatibility notes:
+
 Works under the 3.0.0 dev version recently released with "gem 'jekyll'" in the gemfile.
+
 Likely works under 2.4.0 as well. Can't say for any other version. I never got 2.5.3 to work right.
