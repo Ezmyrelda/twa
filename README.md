@@ -1,11 +1,7 @@
 :beer::beer::beer::beer::beer::beer:
 
-Twemoji Awesome plugin for Jekyll
 This is a Jekyll plugin for Twitter Emoji. 
-It is based heavily 
-(read: essentially lifted) 
-on the work of 
-[@23maverick23](https://github.com/23maverick23) in the case of the Jekyll source.
+It is based heavily* on the work of [@23maverick23](https://github.com/23maverick23) in the case of the Jekyll source.
 
 and 
 
@@ -26,3 +22,4 @@ Usage:
 It will work with any formatting from the third column on the demo page for [Twemoji Awesome](http://ellekasai.github.io/twemoji-awesome/). See notes there and use the [Emoji Cheatsheet](http://www.emoji-cheat-sheet.com/) for names.
   
 
+*read: essentially lifted.
