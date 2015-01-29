@@ -22,6 +22,6 @@ Usage:
 It will work with any formatting from the third column on the demo page for [Twemoji Awesome](http://ellekasai.github.io/twemoji-awesome/). See notes there and use the [Emoji Cheatsheet](http://www.emoji-cheat-sheet.com/) for names.
 
 Working example:
-- http://ezmyrelda.com/2010/07/06/things-are-amazing.html
+- http://ezmyrelda.com/2010/07/06/things-are-amazing/
 
 *read: essentially lifted.
