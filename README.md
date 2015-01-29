@@ -22,6 +22,6 @@ Usage:
 
 {% twa twa-heart %}
 
-It will work with any formatting from the third column on the [demo page](http://ellekasai.github.io/twemoji-awesome/) for Twemoji Awesome. See notes there and use the [Emoji Cheatsheet] for names.
+It will work with any formatting from the third column on the [demo page](http://ellekasai.github.io/twemoji-awesome/) for Twemoji Awesome. See notes there and use the [Emoji Cheatsheet](http://www.emoji-cheat-sheet.com/) for names.
   
 
