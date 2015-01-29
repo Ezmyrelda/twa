@@ -10,8 +10,10 @@ and
 
 [@ellekasai](https://github.com/ellekasai) in the case of the css file that reference the required assets.
 You'll need a copy of that which you can find [here](https://github.com/ellekasai/twemoji-awesome). Just place it in your css directory;
-add a line like     
+add a line like 
+```
 <link rel="stylesheet" href="{{ "/css/twemoji-awesome.css" | prepend: site.baseurl }}">
+```
 and you should be good to go.
 
 Install: Place in the _plugins directory. 
