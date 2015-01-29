@@ -3,17 +3,17 @@
 This is a Jekyll plugin for Twitter Emoji. 
 It is based heavily* on the work of 
 
+[@ellekasai](https://github.com/ellekasai) 
+
+in the case of the css file that reference the required assets;
+
+and
+
 [@23maverick23](https://github.com/23maverick23) 
 
 in the case of the Jekyll source.
 
-and 
-
-[@ellekasai](https://github.com/ellekasai) 
-
-in the case of the css file that reference the required assets.
-
-You'll need a copy of that which you can find [here](https://github.com/ellekasai/twemoji-awesome). 
+You can find the css file [here](https://github.com/ellekasai/twemoji-awesome). 
 
 Just place it in your css directory;
 
