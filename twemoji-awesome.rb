@@ -34,4 +34,4 @@ eos
   end
 end
 
-Liquid::Template.register_tag('twa', Jekyll::TwemojiAwesomeTag) 
+Liquid::Template.register_tag('twa', Jekyll::TwemojiAwesomeTag)
