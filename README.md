@@ -1,4 +1,3 @@
-:beer::beer::beer::beer::beer::beer:
 
 This is a Jekyll plugin for Twitter Emoji. 
 It is based heavily* on the work of 
