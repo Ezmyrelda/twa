@@ -1,43 +1,53 @@
+# twa for Jekyll
 
-This is a Jekyll plugin for Twitter Emoji. 
-It is based heavily* on the work of 
+## About
 
-[@ellekasai](https://github.com/ellekasai) 
+This is a [Twitter Emoji](https://twemoji.twitter.com/) (Twemoji) plugin for Jekyll.
 
-in the case of the css file that reference the required assets;
+It is based heavily on the work of:
 
-and
+- [@ellekasai](https://github.com/ellekasai)'s Twemoji Awesome ([demo](http://ellekasai.github.io/twemoji-awesome/) / [repo](https://github.com/ellekasai/twemoji-awesome))
+- [@23maverick23](https://github.com/23maverick23) for the Jekyll source.
 
-[@23maverick23](https://github.com/23maverick23) 
 
-in the case of the Jekyll source.
+## Installation
 
-You can find the css file [here](https://github.com/ellekasai/twemoji-awesome). 
-
-Just place it in your css directory;
-
-add a line like 
+1. Download `twemoji-awesome.rb` and place it in the `_plugins` directory (option #1 in the Jekyll tutorial on [installing plugins](https://jekyllrb.com/docs/plugins/installation/));
+2. Download either the CSS or the SCSS ([Sass](https://sass-lang.com/)) file from [ellekasai's repository](https://github.com/ellekasai/twemoji-awesome), under the folder `v1`;
+3. Place the file in your CSS directory (Jekyll will compile the file for you, at build time, in case you pick Sass);
+4. Link the CSS file in your HTML. For example:
+```html
+<link rel="stylesheet" href="{{ "/assets/twemoji-awesome.css" | prepend: site.baseurl }}">
 ```
-<link rel="stylesheet" href="{{ "/css/twemoji-awesome.css" | prepend: site.baseurl }}">
+5. That's it!
+
+
+## Usage
+
+### Emoji
+You can insert a Twemoji by inserting the following expression to your post:
+
 ```
-and you should be good to go.
-
-Install: Place in the _plugins directory. 
-
-Usage:
-
 {% twa twa-heart %}
+```
 
-It will work with any formatting from the third column on the demo page for [Twemoji Awesome](http://ellekasai.github.io/twemoji-awesome/). 
+Where `twa-heart` may be replaced by another emoji besides "heart". Checkk the [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) for valid emoji names. Note that underscores `_` must be replaced with hyphens `-`. So, for :stuck_out_tongue: (`:stuck_out_tongue:`), you'd use:
 
-See notes there and use the [Emoji Cheatsheet](http://www.emoji-cheat-sheet.com/) for names.
+```
+{% twa twa-stuck-out-tongue %}
+```
 
-Working example:
-- http://ezmyrelda.com/site/2015/01/29/three-kinds-of-love/
+### Size
+You can also define a preset size by using `twa-lg`, `twa-2x`, `twa-3x`, `twa-4x` or `twa-5x`.
 
-*read: essentially lifted.
+For example:
+```
+{% twa twa-pizza twa-5x %}
+```
+Would render a giant pizza!
 
-Compatibility notes:
+
+# Compatibility
 
 Works under the 3.0.0 dev version recently released with "gem 'jekyll'" in the gemfile.
 
