@@ -35,7 +35,7 @@ You can insert a Twemoji by inserting the following expression to your post:
 Where `heart` may be replaced by another emoji besides "heart". Check the [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) for valid emoji names. Note that underscores `_` must be replaced with hyphens `-`. So, for :stuck_out_tongue: (`:stuck_out_tongue:`), you'd use:
 
 ```
-{% twa twa-stuck-out-tongue %}
+{% twa stuck-out-tongue %}
 ```
 
 ### Size
