@@ -26,9 +26,9 @@ eos
 
     def twa_tag(twa_class, twa_extra = nil)
       if twa_extra.empty?
-        "<i class=\"twa #{twa_class}\"></i>"
+        "<i class=\"twa twa-#{twa_class}\"></i>"
       else
-        "<i class=\"twa #{twa_class} #{twa_extra}\"></i>"
+        "<i class=\"twa twa-#{twa_class} twa-#{twa_extra}\"></i>"
       end
     end
   end
