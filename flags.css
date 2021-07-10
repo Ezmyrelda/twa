@@ -1,0 +1,307 @@
+@charset "UTF-8";
+.twa {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1em 1em; }
+
+.twa-lg {
+  height: 1.33em;
+  width: 1.33em;
+  margin: 0 0.0665em 0 0.133em;
+  vertical-align: -0.133em;
+  background-size: 1.33em 1.33em; }
+
+.twa-2x {
+  height: 2em;
+  width: 2em;
+  margin: 0 0.1em 0 0.2em;
+  vertical-align: -0.2em;
+  background-size: 2em 2em; }
+
+.twa-3x {
+  height: 3em;
+  width: 3em;
+  margin: 0 0.15em 0 0.3em;
+  vertical-align: -0.3em;
+  background-size: 3em 3em; }
+
+.twa-4x {
+  height: 4em;
+  width: 4em;
+  margin: 0 0.2em 0 0.4em;
+  vertical-align: -0.4em;
+  background-size: 4em 4em; }
+
+.twa-5x {
+  height: 5em;
+  width: 5em;
+  margin: 0 0.25em 0 0.5em;
+  vertical-align: -0.5em;
+  background-size: 5em 5em; }
+
+.twa-flag-ascension-island {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1e8.svg");  }
+.twa-flag-andorra {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1e9.svg");  }
+.twa-flag-united-arab-emirates {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1ea.svg");  }
+.twa-flag-afghanistan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1eb.svg");  }
+.twa-flag-antigua-barbuda {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1ec.svg");  }
+.twa-flag-anguilla {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1ee.svg");  }
+.twa-flag-albania {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f1.svg");  }
+.twa-flag-armenia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f2.svg");  }
+.twa-flag-angola {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f4.svg");  }
+.twa-flag-antarctica {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f6.svg");  }
+.twa-flag-argentina {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f7.svg");  }
+.twa-flag-american-samoa {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f8.svg");  }
+.twa-flag-austria {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f9.svg");  }
+.twa-flag-australia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fa.svg");  }
+.twa-flag-aruba {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fc.svg");  }
+.twa-flag-aland-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fd.svg");  }
+.twa-flag-azerbaijan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e6-1f1ff.svg");  }
+.twa-flag-bosnia-herzegovina {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1e6.svg");  }
+.twa-flag-barbados {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1e7.svg");  }
+.twa-flag-bangladesh {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1e9.svg");  }
+.twa-flag-belgium {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ea.svg");  }
+.twa-flag-burkina-faso {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1eb.svg");  }
+.twa-flag-bulgaria {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ec.svg");  }
+.twa-flag-bahrain {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ed.svg");  }
+.twa-flag-burundi {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ee.svg");  }
+.twa-flag-benin {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ef.svg");  }
+.twa-flag-st-barthelemy {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f1.svg");  }
+.twa-flag-bermuda {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f2.svg");  }
+.twa-flag-brunei {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f3.svg");  }
+.twa-flag-bolivia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f4.svg");  }
+.twa-flag-caribbean-netherlands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f6.svg");  }
+.twa-flag-brazil {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f7.svg");  }
+.twa-flag-bahamas {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f8.svg");  }
+.twa-flag-bhutan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f9.svg");  }
+.twa-flag-bouvet-island {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1fb.svg");  }
+.twa-flag-botswana {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1fc.svg");  }
+.twa-flag-belarus {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1fe.svg");  }
+.twa-flag-belize {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ff.svg");  }
+.twa-flag-canada {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1e6.svg");  }
+.twa-flag-cocos-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1e8.svg");  }
+.twa-flag-congo-kinshasa {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1e9.svg");  }
+.twa-flag-central-african-republic {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1eb.svg");  }
+.twa-flag-congo-brazzaville {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ec.svg");  }
+.twa-flag-switzerland {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ed.svg");  }
+.twa-flag-cote-divoire {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ee.svg");  }
+.twa-flag-cook-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f0.svg");  }
+.twa-flag-chile {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f1.svg");  }
+.twa-flag-cameroon {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f2.svg");  }
+.twa-flag-china {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f3.svg");  }
+.twa-flag-colombia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f4.svg");  }
+.twa-flag-clipperton-island {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f5.svg");  }
+.twa-flag-costa-rica {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f7.svg");  }
+.twa-flag-cuba {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fa.svg");  }
+.twa-flag-cape-verde {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fb.svg");  }
+.twa-flag-curaçao {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fc.svg");  }
+.twa-flag-christmas-island {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fd.svg");  }
+.twa-flag-cyprus {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fe.svg");  }
+.twa-flag-czechia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ff.svg");  }
+.twa-flag-germany {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg");  }
+.twa-flag-diego-garcia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ec.svg");  }
+.twa-flag-djibouti {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ef.svg");  }
+.twa-flag-denmark {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e9-1f1f0.svg");  }
+.twa-flag-dominica {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e9-1f1f2.svg");  }
+.twa-flag-dominican-republic {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e9-1f1f4.svg");  }
+.twa-flag-algeria {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ff.svg");  }
+.twa-flag-ceuta-melilla {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1e6.svg");  }
+.twa-flag-ecuador {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1e8.svg");  }
+.twa-flag-estonia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ea.svg");  }
+.twa-flag-egypt {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ec.svg");  }
+.twa-flag-western-sahara {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ed.svg");  }
+.twa-flag-eritrea {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f7.svg");  }
+.twa-flag-spain {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f8.svg");  }
+.twa-flag-ethiopia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f9.svg");  }
+.twa-flag-european-union {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ea-1f1fa.svg");  }
+.twa-flag-finland {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1eb-1f1ee.svg");  }
+.twa-flag-fiji {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1eb-1f1ef.svg");  }
+.twa-flag-falkland-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1eb-1f1f0.svg");  }
+.twa-flag-micronesia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1eb-1f1f2.svg");  }
+.twa-flag-faroe-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1eb-1f1f4.svg");  }
+.twa-flag-france {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1eb-1f1f7.svg");  }
+.twa-flag-gabon {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e6.svg");  }
+.twa-flag-united-kingdom {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg");  }
+.twa-flag-grenada {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e9.svg");  }
+.twa-flag-georgia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1ea.svg");  }
+.twa-flag-french-guiana {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1eb.svg");  }
+.twa-flag-guernsey {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1ec.svg");  }
+.twa-flag-ghana {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1ed.svg");  }
+.twa-flag-gibraltar {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1ee.svg");  }
+.twa-flag-greenland {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f1.svg");  }
+.twa-flag-gambia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f2.svg");  }
+.twa-flag-guinea {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f3.svg");  }
+.twa-flag-guadeloupe {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f5.svg");  }
+.twa-flag-equatorial-guinea {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f6.svg");  }
+.twa-flag-greece {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f7.svg");  }
+.twa-flag-south-georgia-south-sandwich-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f8.svg");  }
+.twa-flag-guatemala {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f9.svg");  }
+.twa-flag-guam {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1fa.svg");  }
+.twa-flag-guinea-bissau {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1fc.svg");  }
+.twa-flag-guyana {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ec-1f1fe.svg");  }
+.twa-flag-hong-kong {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ed-1f1f0.svg");  }
+.twa-flag-heard-mcdonald-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ed-1f1f2.svg");  }
+.twa-flag-honduras {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ed-1f1f3.svg");  }
+.twa-flag-croatia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ed-1f1f7.svg");  }
+.twa-flag-haiti {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ed-1f1f9.svg");  }
+.twa-flag-hungary {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ed-1f1fa.svg");  }
+.twa-flag-canary-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1e8.svg");  }
+.twa-flag-indonesia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1e9.svg");  }
+.twa-flag-ireland {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1ea.svg");  }
+.twa-flag-israel {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f1.svg");  }
+.twa-flag-isle-of-man {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f2.svg");  }
+.twa-flag-india {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f3.svg");  }
+.twa-flag-british-indian-ocean-territory {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f4.svg");  }
+.twa-flag-iraq {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f6.svg");  }
+.twa-flag-iran {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f7.svg");  }
+.twa-flag-iceland {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f8.svg");  }
+.twa-flag-italy {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f9.svg");  }
+.twa-flag-jersey {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ef-1f1ea.svg");  }
+.twa-flag-jamaica {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f2.svg");  }
+.twa-flag-jordan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f4.svg");  }
+.twa-flag-japan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f5.svg");  }
+.twa-flag-kenya {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ea.svg");  }
+.twa-flag-kyrgyzstan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ec.svg");  }
+.twa-flag-cambodia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ed.svg");  }
+.twa-flag-kiribati {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ee.svg");  }
+.twa-flag-comoros {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1f2.svg");  }
+.twa-flag-st-kitts-nevis {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1f3.svg");  }
+.twa-flag-north-korea {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1f5.svg");  }
+.twa-flag-south-korea {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1f7.svg");  }
+.twa-flag-kuwait {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1fc.svg");  }
+.twa-flag-cayman-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1fe.svg");  }
+.twa-flag-kazakhstan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ff.svg");  }
+.twa-flag-laos {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1e6.svg");  }
+.twa-flag-lebanon {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1e7.svg");  }
+.twa-flag-st-lucia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1e8.svg");  }
+.twa-flag-liechtenstein {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1ee.svg");  }
+.twa-flag-sri-lanka {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f0.svg");  }
+.twa-flag-liberia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f7.svg");  }
+.twa-flag-lesotho {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f8.svg");  }
+.twa-flag-lithuania {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f9.svg");  }
+.twa-flag-luxembourg {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1fa.svg");  }
+.twa-flag-latvia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1fb.svg");  }
+.twa-flag-libya {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f1-1f1fe.svg");  }
+.twa-flag-morocco {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1e6.svg");  }
+.twa-flag-monaco {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1e8.svg");  }
+.twa-flag-moldova {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1e9.svg");  }
+.twa-flag-montenegro {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ea.svg");  }
+.twa-flag-st-martin {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1eb.svg");  }
+.twa-flag-madagascar {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ec.svg");  }
+.twa-flag-marshall-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ed.svg");  }
+.twa-flag-north-macedonia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f0.svg");  }
+.twa-flag-mali {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f1.svg");  }
+.twa-flag-myanmar {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f2.svg");  }
+.twa-flag-mongolia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f3.svg");  }
+.twa-flag-macao-sar-china {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f4.svg");  }
+.twa-flag-northern-mariana-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f5.svg");  }
+.twa-flag-martinique {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f6.svg");  }
+.twa-flag-mauritania {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f7.svg");  }
+.twa-flag-montserrat {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f8.svg");  }
+.twa-flag-malta {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f9.svg");  }
+.twa-flag-mauritius {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fa.svg");  }
+.twa-flag-maldives {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fb.svg");  }
+.twa-flag-malawi {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fc.svg");  }
+.twa-flag-mexico {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fd.svg");  }
+.twa-flag-malaysia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fe.svg");  }
+.twa-flag-mozambique {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ff.svg");  }
+.twa-flag-namibia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1e6.svg");  }
+.twa-flag-new-caledonia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1e8.svg");  }
+.twa-flag-niger {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ea.svg");  }
+.twa-flag-norfolk-island {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1eb.svg");  }
+.twa-flag-nigeria {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ec.svg");  }
+.twa-flag-nicaragua {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ee.svg");  }
+.twa-flag-netherlands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f1.svg");  }
+.twa-flag-norway {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f4.svg");  }
+.twa-flag-nepal {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f5.svg");  }
+.twa-flag-nauru {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f7.svg");  }
+.twa-flag-niue {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1fa.svg");  }
+.twa-flag-new-zealand {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ff.svg");  }
+.twa-flag-oman {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f4-1f1f2.svg");  }
+.twa-flag-panama {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1e6.svg");  }
+.twa-flag-peru {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1ea.svg");  }
+.twa-flag-french-polynesia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1eb.svg");  }
+.twa-flag-papua-new-guinea {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1ec.svg");  }
+.twa-flag-philippines {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1ed.svg");  }
+.twa-flag-pakistan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f0.svg");  }
+.twa-flag-poland {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f1.svg");  }
+.twa-flag-st-pierre-miquelon {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f2.svg");  }
+.twa-flag-pitcairn-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f3.svg");  }
+.twa-flag-puerto-rico {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f7.svg");  }
+.twa-flag-palestinian-territories {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f8.svg");  }
+.twa-flag-portugal {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1f9.svg");  }
+.twa-flag-palau {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1fc.svg");  }
+.twa-flag-paraguay {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f5-1f1fe.svg");  }
+.twa-flag-qatar {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f6-1f1e6.svg");  }
+.twa-flag-reunion {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f7-1f1ea.svg");  }
+.twa-flag-romania {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f7-1f1f4.svg");  }
+.twa-flag-serbia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f7-1f1f8.svg");  }
+.twa-flag-russia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f7-1f1fa.svg");  }
+.twa-flag-rwanda {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f7-1f1fc.svg");  }
+.twa-flag-saudi-arabia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e6.svg");  }
+.twa-flag-solomon-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e7.svg");  }
+.twa-flag-seychelles {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e8.svg");  }
+.twa-flag-sudan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e9.svg");  }
+.twa-flag-sweden {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ea.svg");  }
+.twa-flag-singapore {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ec.svg");  }
+.twa-flag-st-helena {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ed.svg");  }
+.twa-flag-slovenia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ee.svg");  }
+.twa-flag-svalbard-jan-mayen {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ef.svg");  }
+.twa-flag-slovakia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f0.svg");  }
+.twa-flag-sierra-leone {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f1.svg");  }
+.twa-flag-san-marino {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f2.svg");  }
+.twa-flag-senegal {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f3.svg");  }
+.twa-flag-somalia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f4.svg");  }
+.twa-flag-suriname {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f7.svg");  }
+.twa-flag-south-sudan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f8.svg");  }
+.twa-flag-sao-tome-principe {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f9.svg");  }
+.twa-flag-el-salvador {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1fb.svg");  }
+.twa-flag-sint-maarten {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1fd.svg");  }
+.twa-flag-syria {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1fe.svg");  }
+.twa-flag-eswatini {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ff.svg");  }
+.twa-flag-tristan-da-cunha {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1e6.svg");  }
+.twa-flag-turks-caicos-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1e8.svg");  }
+.twa-flag-chad {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1e9.svg");  }
+.twa-flag-french-southern-territories {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1eb.svg");  }
+.twa-flag-togo {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1ec.svg");  }
+.twa-flag-thailand {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1ed.svg");  }
+.twa-flag-tajikistan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1ef.svg");  }
+.twa-flag-tokelau {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f0.svg");  }
+.twa-flag-timor-leste {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f1.svg");  }
+.twa-flag-turkmenistan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f2.svg");  }
+.twa-flag-tunisia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f3.svg");  }
+.twa-flag-tonga {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f4.svg");  }
+.twa-flag-turkey {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f7.svg");  }
+.twa-flag-trinidad-tobago {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f9.svg");  }
+.twa-flag-tuvalu {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1fb.svg");  }
+.twa-flag-taiwan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1fc.svg");  }
+.twa-flag-tanzania {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1f9-1f1ff.svg");  }
+.twa-flag-ukraine {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fa-1f1e6.svg");  }
+.twa-flag-uganda {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fa-1f1ec.svg");  }
+.twa-flag-us-outlying-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f2.svg");  }
+.twa-flag-united-nations {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f3.svg");  }
+.twa-flag-united-states-of-america {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fa-1f1f8.svg");  }
+.twa-flag-uruguay {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fa-1f1fe.svg");  }
+.twa-flag-uzbekistan {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fa-1f1ff.svg");  }
+.twa-flag-vatican-city {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fb-1f1e6.svg");  }
+.twa-flag-st-vincent-grenadines {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fb-1f1e8.svg");  }
+.twa-flag-venezuela {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fb-1f1ea.svg");  }
+.twa-flag-british-virgin-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fb-1f1ec.svg");  }
+.twa-flag-us-virgin-islands {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fb-1f1ee.svg");  }
+.twa-flag-vietnam {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fb-1f1f3.svg");  }
+.twa-flag-vanuatu {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fb-1f1fa.svg");  }
+.twa-flag-wallis-futuna {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fc-1f1eb.svg");  }
+.twa-flag-samoa {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fc-1f1f8.svg");  }
+.twa-flag-kosovo {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fd-1f1f0.svg");  }
+.twa-flag-yemen {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fe-1f1ea.svg");  }
+.twa-flag-mayotte {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1fe-1f1f9.svg");  }
+.twa-flag-south-africa {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ff-1f1e6.svg");  }
+.twa-flag-zambia {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ff-1f1f2.svg");  }
+.twa-flag-zimbabwe {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f1ff-1f1fc.svg");  }
+.twa-flag-england {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.svg");  }
+.twa-flag-scotland {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.svg");  }
+.twa-flag-wales {  background-image: url("https://twemoji.maxcdn.com/2/svg/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.svg");  }
